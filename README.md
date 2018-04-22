@@ -3,7 +3,7 @@
 ### Category:
 - 🤚 Carpal Tunnel Syndrome
 - 🔁 Repetitive Stress Injury
-- 🎮 Gamers Thumb/Injury
+- 🎮 Gamer's Thumb/Injury
 
 
 |    | Category | Length | Views |
