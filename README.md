@@ -35,9 +35,40 @@
 ## RSI Exercise Gear
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
-| [Body Back Buddy](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) | $29 | ⭐️⭐️⭐️⭐️⭐️ | 4,600 |
+| [Body Back Buddy Original Trigger Point Therapy Self Massage Tool](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) | $29 | ⭐️⭐️⭐️⭐️⭐️ | 4,600 |
 | [Gripmaster Hand Exerciser](https://www.amazon.com/Grip-Master-Gripmaster-14003-BLK-Exerciser/dp/B0006GCBL4/ref=sr_1_2?s=sports-and-fitness&ie=UTF8&qid=1530225979&sr=1-2&keywords=prohands+gripmaster) | $11 | ⭐️⭐️⭐️⭐️⭐️ | 2,000 |
-| [The Friendly Swede](https://www.amazon.com/Friendly-Swede-Strengthening-Therapy-Squishy/dp/B07BKYDBZS) | $10 | ⭐️⭐️⭐️⭐️⭐️ | 1,000 |
-| [Best Hand Grip Strengthener ](https://www.amazon.com/dp/B075CK5R49/) | $12 | ⭐️⭐️⭐️⭐️⭐️ | 46 |
-| [NSD Powerball Exerciser](https://www.amazon.com/dp/B007MEWW6M/) | $46 | ⭐️⭐️⭐️⭐️ | 350 |
-| [Airisland Finger Stretcher](https://www.amazon.com/Airisland-Stretcher-Resistance-Exerciser-Strengthener/dp/B071JL6PYZ/) | $133 | ⭐️⭐️⭐️⭐️ | 130 |
+| [The Friendly Swede Hand Grip Strengthening Stress Relief Therapy Squishy Balls](https://www.amazon.com/Friendly-Swede-Strengthening-Therapy-Squishy/dp/B07BKYDBZS) | $10 | ⭐️⭐️⭐️⭐️⭐️ | 1,000 |
+| [Best Hand Grip Strengthener - A Forearm Wrist & Finger Exerciser](https://www.amazon.com/dp/B075CK5R49/) | $12 | ⭐️⭐️⭐️⭐️⭐️ | 46 |
+| [NSD Powerball Exerciser - Gyroscopic Wrist and Forearm Exerciser](https://www.amazon.com/dp/B007MEWW6M/) | $46 | ⭐️⭐️⭐️⭐️ | 350 |
+| [Airisland Finger Stretcher Hand Resistance Bands Hand Extensor ](https://www.amazon.com/Airisland-Stretcher-Resistance-Exerciser-Strengthener/dp/B071JL6PYZ/) | $133 | ⭐️⭐️⭐️⭐️ | 130 |
+
+
+## Ergonomic Gear
+
+##### Chair
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| [Herman Miller Aeron Tilt Limiter Task Chair](https://www.amazon.com/Herman-Miller-Adjustable-Graphite-Pellicle/dp/B003M1C7XW) | $939 | ⭐️⭐️⭐️⭐️ | 400 |
+| [Office Star High Back ProGrid Back ](https://www.amazon.com/Office-Star-FreeFlex-Adjustable-Multi-Function/dp/B00450P182?) | $213 | ⭐️⭐️⭐️⭐️ | 198 |
+| [Herman Miller Embody Chair](https://www.amazon.com/Herman-Miller-Embody-Chair-Graphite/dp/B01DGM7ZKQ) | $1,500 | ⭐️⭐️⭐️⭐️ | 147 |
+| [Lorell Exec High-Back Swivel Chair](https://www.amazon.com/Lorell-High-Back-Swivel-Chair-x28-1/dp/B0074GX2YE/ref=sr_1_1?ie=UTF8&qid=1454106378&sr=8-1&keywords=lorell+chair) | $160 | ⭐️⭐️⭐️⭐️ | 118 |
+| [Ikea Markus](https://www.ikea.com/us/en/catalog/products/90289172/) | $179 | ⭐️⭐️⭐️⭐️ | 56 |
+| [Autonomous ErgoChair 2](https://www.autonomous.ai/product/ergonomic-chair?utm_campaign=referrals&utm_source=addthis_referrals_link&utm_medium=a180e7&rid=a180e7#.WzjRDsXTzCI.link) | $299 | ⭐️⭐️⭐️⭐️⭐️ | 44 |
+| [Focal Upright Active Collection - Stand-up Leaning Seat](https://www.amazon.com/Focal-Upright-Collection-FWS-1000-BK-Stand-up/dp/B01GS4DVWK/ref=sr_1_1?ie=UTF8&qid=1529970077&sr=8-1&keywords=focal+pivot+seat) | $243 | ⭐️⭐️⭐️⭐️ | 6 |
+| [GT Omega PRO Racing Office Chair](https://www.amazon.com/dp/B0145XTWIS/ref=cm_sw_r_tw_dp_U_x_upymBbZR3MAG4) | $270 | ⭐️⭐️⭐️⭐️ | 6 |
+| [Ikea UBIK](https://qz.com/1299865/ikea-is-designing-an-ergonomic-chair-the-ubik-for-gamers-and-e-sports-players/) | — | — | — |
+
+##### Desk / Stand
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| Product | Price | Review | # of Reviews |
+
+##### Keyboard
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| Product | Price | Review | # of Reviews |
+
+##### Mouse
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| Product | Price | Review | # of Reviews |
