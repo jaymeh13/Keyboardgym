@@ -1,12 +1,15 @@
 ![cover](/cover.png)
 - - -
-### Category:
+
+## RSI Exercise Videos
+
+##### Category
 - 🤚 Carpal Tunnel Syndrome
 - 🔁 Repetitive Strain Injury
 - 🎮 Gamer's Thumb/Injury
 
 
-|    | Category | Length | Views |
+| Title | Category | Length | Views |
 | ----- | ----- | ----- | ----- |
 | [Wrist Exercises for Tendinitis Carpal Tunnel Syndrome - Avoid RSI injury in just 2 minutes a day!](https://youtu.be/fdD7CgN5FGg) | 🤚 🔁  | 7:28 | 260K |
 | [How to Cure Carpal Tunnel Syndrome (CTS) Naturally](https://www.youtube.com/watch?v=UWrhlFd5ZaQ) | 🤚 🔁 | 3:28 | 109K |
@@ -28,3 +31,13 @@
 | [Gliding Exercises For Preventing Carpal Tunnel](https://www.youtube.com/watch?v=pvzUMBYz7EM) | 🤚 🎮 | 2:56 | 100K |
 | [Hand + Wrist Exercises For Gamers](https://www.youtube.com/watch?v=EiRC80FJbHU) | 🎮 | 5:29 | 1.2M |
 | [Thumb Pain: Treatment & Exercises (Double Gamers Thumb)](https://www.youtube.com/watch?v=n-5m7M2Wv_M) | 🎮 | 3:50 | 230K |
+
+## RSI Exercise Gear
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| [Body Back Buddy](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) | $29 | ⭐️⭐️⭐️⭐️⭐️ | 4,600 |
+| [Gripmaster Hand Exerciser](https://www.amazon.com/Grip-Master-Gripmaster-14003-BLK-Exerciser/dp/B0006GCBL4/ref=sr_1_2?s=sports-and-fitness&ie=UTF8&qid=1530225979&sr=1-2&keywords=prohands+gripmaster) | $11 | ⭐️⭐️⭐️⭐️⭐️ | 2,000 |
+| [The Friendly Swede](https://www.amazon.com/Friendly-Swede-Strengthening-Therapy-Squishy/dp/B07BKYDBZS) | $10 | ⭐️⭐️⭐️⭐️⭐️ | 1,000 |
+| [Best Hand Grip Strengthener ](https://www.amazon.com/dp/B075CK5R49/) | $12 | ⭐️⭐️⭐️⭐️⭐️ | 46 |
+| [NSD Powerball Exerciser](https://www.amazon.com/dp/B007MEWW6M/) | $46 | ⭐️⭐️⭐️⭐️ | 350 |
+| [Airisland Finger Stretcher](https://www.amazon.com/Airisland-Stretcher-Resistance-Exerciser-Strengthener/dp/B071JL6PYZ/) | $133 | ⭐️⭐️⭐️⭐️ | 130 |
