@@ -1,5 +1,6 @@
 ![cover](/cover.png)
 - - -
+> [Join Keyboardgym](https://upscri.be/201037/)
 
 ## RSI Exercise Videos
 
