@@ -1,6 +1,6 @@
 ![cover](/cover.png)
 - - -
-> [Join Keyboardgym](https://upscri.be/201037/)
+> [Sign up to get Keyboardgym updates](https://upscri.be/201037/)
 
 ## RSI Exercise Videos
 
@@ -86,9 +86,4 @@
 | [J-Tech Digital V628](https://www.amazon.com/J-Tech-Digital-V628-Adjustable-Sensitivity/dp/B0759V6FZC/ref=sr_1_5?s=electronics&ie=UTF8&qid=1530225538&sr=1-5&keywords=ergonomic+mouse) | $29 | ★★★★★ | 857 |
 | [Logitech MX ERGO](https://www.amazon.com/Logitech-Advanced-Wireless-Trackball-Windows/dp/B0753P1GTS) | $82 | ★★★★★ | 286 |
 | [Logitech G500s Laser Gaming Mouse](https://www.amazon.com/Logitech-Gaming-Adjustable-Weight-Tuning/dp/B00CJD4HD2) | $142 | ★★★★ | 681 |
-
-
-## Other Resources
-
-Blogs
-* [Painless Movement](https://www.painlessmovement.com/)
+| [Delux Navee - Kickstarter](https://www.kickstarter.com/projects/1594516409/delux-navee-best-ergonomic-mouse-for-longterm-comf?ref=producthunt) | $50 | - | - |
