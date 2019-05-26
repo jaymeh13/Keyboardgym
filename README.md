@@ -34,7 +34,8 @@
 | [Thumb Pain: Treatment & Exercises (Double Gamers Thumb)](https://www.youtube.com/watch?v=n-5m7M2Wv_M) | 🎮 | 3:50 | 230K |
 
 ## RSI Exercise Gear
-| Product | Price | Review | Reviews |
+
+| Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Body Back Buddy Original Trigger Point Therapy Self Massage Tool](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) | $29 | ★★★★★ | 4,600 |
 | [Gripmaster Hand Exerciser](https://www.amazon.com/Grip-Master-Gripmaster-14003-BLK-Exerciser/dp/B0006GCBL4/ref=sr_1_2?s=sports-and-fitness&ie=UTF8&qid=1530225979&sr=1-2&keywords=prohands+gripmaster) | $11 | ★★★★★ | 2,000 |
@@ -47,6 +48,7 @@
 ## Ergonomic Gear
 
 ##### Seating 🐒
+
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Herman Miller Aeron Tilt Limiter Task Chair](https://www.amazon.com/Herman-Miller-Adjustable-Graphite-Pellicle/dp/B003M1C7XW) | $939 | ★★★★ | 400 |
@@ -60,6 +62,7 @@
 | [Ikea UBIK](https://qz.com/1299865/ikea-is-designing-an-ergonomic-chair-the-ubik-for-gamers-and-e-sports-players/) | — | — | — |
 
 ##### Desk / Stand 💻
+
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [AmazonBasics Laptop Stand](https://www.amazon.com/AmazonBasics-DSN-01750-SL-Laptop-Stand-Silver/dp/B00WRDS0AU/ref=sr_1_9?ie=UTF8&qid=1528176690&sr=8-9&keywords=laptop+elevator+stand) | $20 | ★★★★ | 917 |
@@ -70,6 +73,7 @@
 | [Autonomous SmartDesk 3](https://www.autonomous.ai/product/Autonomous-smart-desk-3?utm_campaign=referrals&utm_source=addthis_referrals_link&utm_medium=a180e7&rid=a180e7#.WzjUkKuA7iU.link) | $499 | ★★★★ | 7 |
 
 ##### Keyboard ⌨️
+
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Kinesis Advantage2 Ergonomic Keyboard](https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY/ref=sr_1_2?ie=UTF8&qid=1530224583&sr=8-2&keywords=kinesis+advantage+keyboard) | $319 | ★★★★★ | 96 |
@@ -79,6 +83,7 @@
 | [Matias Ergo Pro for Win](https://www.amazon.com/Matias-Ergo-Pro-for-Win/dp/B00ZWPR506) | $195 | ★★ | 42 |
 
 ##### Mouse 🐁
+
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Anker AK-UBA 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.amazon.com/Anker-Wireless-Vertical-Ergonomic-Optical/dp/B00BIFNTMC) | $20 | ★★★★ | 6,400 |
