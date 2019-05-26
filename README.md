@@ -34,7 +34,7 @@
 | [Thumb Pain: Treatment & Exercises (Double Gamers Thumb)](https://www.youtube.com/watch?v=n-5m7M2Wv_M) | 🎮 | 3:50 | 230K |
 
 ## RSI Exercise Gear
-| Product | Price | Review | # of Reviews |
+| Product | Price | Review | Reviews |
 | ----- | ----- | ----- | ----- |
 | [Body Back Buddy Original Trigger Point Therapy Self Massage Tool](https://www.amazon.com/Body-Back-Original-Trigger-Therapy/dp/B005F9F5H4) | $29 | ★★★★★ | 4,600 |
 | [Gripmaster Hand Exerciser](https://www.amazon.com/Grip-Master-Gripmaster-14003-BLK-Exerciser/dp/B0006GCBL4/ref=sr_1_2?s=sports-and-fitness&ie=UTF8&qid=1530225979&sr=1-2&keywords=prohands+gripmaster) | $11 | ★★★★★ | 2,000 |
