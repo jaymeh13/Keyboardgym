@@ -47,9 +47,9 @@
 
 ## Ergonomic Gear
 
-##### Seating 🐒
 
-| Product | Price | Review | # of Reviews |
+
+| Seating 🐒 | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Herman Miller Aeron Tilt Limiter Task Chair](https://www.amazon.com/Herman-Miller-Adjustable-Graphite-Pellicle/dp/B003M1C7XW) | $939 | ★★★★ | 400 |
 | [Office Star High Back ProGrid Back ](https://www.amazon.com/Office-Star-FreeFlex-Adjustable-Multi-Function/dp/B00450P182?) | $213 | ★★★★ | 198 |
