@@ -1,6 +1,6 @@
 ![cover](/cover.png)
 - - -
-> [Sign up to get Keyboardgym updates](https://upscri.be/201037/)
+[📧 Sign up to get updates on Keyboardgym 📧](https://upscri.be/201037/)
 
 ## RSI Exercise Videos
 
