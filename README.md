@@ -73,6 +73,7 @@
 | [Autonomous SmartDesk 3](https://www.autonomous.ai/product/Autonomous-smart-desk-3?utm_campaign=referrals&utm_source=addthis_referrals_link&utm_medium=a180e7&rid=a180e7#.WzjUkKuA7iU.link) | $499 | ★★★★ | 7 |
 
 #### Standing Mat
+
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
 | [Ergodriven Topo](https://amzn.to/3cP2340) | $99 | ★★★★★ | 2,600 |
