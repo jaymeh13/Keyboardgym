@@ -2,7 +2,9 @@
 - - -
 [📧 Sign up to get updates on Keyboardgym 📧](https://upscri.be/201037/)
 
-## RSI Exercise Videos
+# How to prevent and alleviate Repetitive Strain Injuries  
+
+## Step 1: Take breaks and stretch with the following exercise videos and gear
 
 ##### Category
 - 🤚 Carpal Tunnel Syndrome
@@ -33,7 +35,7 @@
 | [Hand + Wrist Exercises For Gamers](https://www.youtube.com/watch?v=EiRC80FJbHU) | 🎮 | 5:29 | 1.2M |
 | [Thumb Pain: Treatment & Exercises (Double Gamers Thumb)](https://www.youtube.com/watch?v=n-5m7M2Wv_M) | 🎮 | 3:50 | 230K |
 
-## RSI Exercise Gear
+#### Repetitive Strain Injury Exercise Gear
 
 | Product | Price | Review | # of Reviews |
 | ----- | ----- | ----- | ----- |
@@ -44,8 +46,13 @@
 | [NSD Powerball Exerciser - Gyroscopic Wrist and Forearm Exerciser](https://amzn.to/3fY1HtV) | $42 | ★★★★ | 541 |
 | [Airisland Finger Stretcher Hand Resistance Bands Hand Extensor ](https://amzn.to/2zHPo4w) | $8.99 | ★★★★ | 834 |
 
+## Step 2: Improve your posture
+Calculate your sitting and standing desk height with this handy [Ergonomic Calcualtor by Uplift Desk](https://www.upliftdesk.com/ergonomic-calculator/). Factor in shoe height (usually 1 inch or so).
 
-## Ergonomic Gear
+![ergonomic calculator](/ergonomic-calculator.png)
+
+
+## Step 3: Optimize your workstation desk, seating, keyboard and more
 
 #### Seating 🐒
 
