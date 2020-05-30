@@ -2,8 +2,6 @@
 - - -
 [📧 Sign up to get updates on Keyboardgym 📧](https://upscri.be/201037/)
 
-# How to prevent and alleviate Repetitive Strain Injuries  
-
 ## Step 1: Take breaks and stretch with the following exercise videos and gear
 
 ##### Category
