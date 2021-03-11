@@ -49,7 +49,7 @@ Calculate your sitting and standing desk height with this handy [Ergonomic Calcu
 
 ![ergonomic calculator](/ergonomic-calculator.png)
 
-[Great guide and video to proper posture.)](http://computerpain.info/where-is-your-pain/shoulders-upper-back.html)
+[Great guide and video on posture troubleshooting.](http://computerpain.info/where-is-your-pain/shoulders-upper-back.html)
 
 
 ## Step 3: Optimize your workstation desk, seating, keyboard and more
