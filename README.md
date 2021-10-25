@@ -51,6 +51,14 @@ Calculate your sitting and standing desk height with this handy [Ergonomic Calcu
 
 [Great guide and video on posture troubleshooting.](http://computerpain.info/where-is-your-pain/shoulders-upper-back.html)
 
+#### Posture correction apps
+
+| Product | Price | Review | # of Reviews |
+| ----- | ----- | ----- | ----- |
+| [Upright GO 2](https://store.uprightpose.com/products/upright-go2) | $79 | ★★★★★ | 1,500 |
+| [Zen (YC S21)](https://www.yayzen.com/) | $3.99/month | ★★★★★ | 32 |
+
+
 
 ## Step 3: Optimize your workstation desk, seating, keyboard and more
 
