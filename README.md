@@ -116,3 +116,8 @@ Calculate your sitting and standing desk height with this handy [Ergonomic Calcu
 | [Logitech MX ERGO](https://www.amazon.com/Logitech-Advanced-Wireless-Trackball-Windows/dp/B0753P1GTS) | $82 | ★★★★★ | 286 |
 | [Logitech G500s Laser Gaming Mouse](https://www.amazon.com/Logitech-Gaming-Adjustable-Weight-Tuning/dp/B00CJD4HD2) | $142 | ★★★★ | 681 |
 | [Delux Navee - Kickstarter](https://www.kickstarter.com/projects/1594516409/delux-navee-best-ergonomic-mouse-for-longterm-comf?ref=producthunt) | $50 | - | - |
+
+#### Ergonomic Consultants
+
+* [Performance Based Ergonomics (PBE)](https://www.pbergo.com/)
+* [Aedra (Alexandra) Ho](https://www.linkedin.com/in/aedra-ho-25b724102/)
